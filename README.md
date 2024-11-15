@@ -1,5 +1,5 @@
 # LADFastDet
-具体详细代码待文章发表后可公开
-目前提供部分实现代码。
-数据集等需待文章发表后后公开。
-感谢您们的关注，谢谢！
+The detailed code can be published after the article is published.
+Some implementation code is currently provided.
+Data sets should be published after the publication of the paper.
+Thank you for your attention, thank you!
